@@ -18,7 +18,7 @@ Earlier this year, I started using the free version of [Alfred](https://www.alfr
   <figcaption><i>A new tab with my search result opens without ever even touching my browser</i>
   </figcaption>
 </figure>
-
+<br>
 Honestly, it might as well have been magic when I first discovered this. I use it all the time and it really does save me a lot of time and needless typing. 
 
 Recently I started to wonder if there was a way to accomplish the same thing, but without needing yet another app. While Alfred has a lot of uses beyond this, most are not available to free users. 
@@ -42,7 +42,7 @@ echo $SHELL
   <figcaption><i>/bin/zsh shell is returned to me, telling me I am running zshell</i>
   </figcaption>
 </figure>
-
+<br>
 **If you're running bash:** your configuration file is most likely **~/.bashrc**. Open it by running:
 
 ```bash
